@@ -1,0 +1,20 @@
+What is the use of SMRT?
+
+How user can submit a new Request?
+	1.Click the create button present in the Home Page.
+	2.New Request page will be displayed.Fill all the fields and submit by clicking the submit button.(Note:If you are not sure about what to enter in any field,you can save the request.Later you can fill that field and can submit.)
+How user can update the saved/submitted request?
+	1.All the requests you submitted/saved will be displayed in the My Request/My Team Request page.
+	2.Navigate to the MyRequest Page.
+	2.Click on the work button of the corresponding request you want to edit.(Note:You can edit the request only when the request status is Submitted/Saved).
+	3.Request page  you will be displayed.You can update the fields and can submit again.
+How admin can approve the request? 
+	1.All the requests submitted by the user will be displayed in the My Queue/My Team Queue.
+	2.Navigate to the My Team Queue Page.
+	3.Click on the work button of the corresponding request you want to approve.
+	4.Admin Page will be displayed.You can fill all the fields and can approve.
+How to get Admin Access?
+	1.To get admin access you should be part of SMRADMIN_R_G group.
+	2.You can become member of that group by submitting the request in arts.
+Do we need to be part any group to submit the new request?
+	No.
